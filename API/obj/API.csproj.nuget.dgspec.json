@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\Reactivities\\API\\API.csproj": {}
+    "C:\\Udemy\\Reactivities-\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\projects\\Reactivities\\API\\API.csproj": {
+    "C:\\Udemy\\Reactivities-\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Udemy\\Reactivities-\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\projects\\Reactivities\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\lawan\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\Reactivities\\API\\obj\\",
+        "projectPath": "C:\\Udemy\\Reactivities-\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\lawand.rasoul\\.nuget\\packages\\",
+        "outputPath": "C:\\Udemy\\Reactivities-\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lawand.rasoul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\projects\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\projects\\Reactivities\\Application\\Application.csproj"
+              "C:\\Udemy\\Reactivities-\\Application\\Application.csproj": {
+                "projectPath": "C:\\Udemy\\Reactivities-\\Application\\Application.csproj"
               }
             }
           }
@@ -44,6 +44,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -55,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,21 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projects\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Udemy\\Reactivities-\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Udemy\\Reactivities-\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\projects\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\lawan\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\Reactivities\\Application\\obj\\",
+        "projectPath": "C:\\Udemy\\Reactivities-\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\lawand.rasoul\\.nuget\\packages\\",
+        "outputPath": "C:\\Udemy\\Reactivities-\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lawand.rasoul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,11 +102,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\projects\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\projects\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj"
               },
-              "C:\\projects\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\projects\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Udemy\\Reactivities-\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Udemy\\Reactivities-\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -119,7 +126,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -128,21 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projects\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\projects\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\lawan\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\lawand.rasoul\\.nuget\\packages\\",
+        "outputPath": "C:\\Udemy\\Reactivities-\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lawand.rasoul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -173,7 +181,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -182,21 +191,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projects\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Udemy\\Reactivities-\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Udemy\\Reactivities-\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\projects\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\lawan\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Udemy\\Reactivities-\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\lawand.rasoul\\.nuget\\packages\\",
+        "outputPath": "C:\\Udemy\\Reactivities-\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lawand.rasoul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -210,8 +219,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\projects\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\projects\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj"
               }
             }
           }
@@ -225,13 +234,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -240,7 +256,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

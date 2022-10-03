@@ -10,3 +10,15 @@ C:\projects\Reactivities\Domain\obj\Debug\net6.0\Domain.dll
 C:\projects\Reactivities\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\projects\Reactivities\Domain\obj\Debug\net6.0\Domain.pdb
 C:\projects\Reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Udemy\Reactivities-\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Udemy\Reactivities-\Domain\bin\Debug\net6.0\Domain.dll
+C:\Udemy\Reactivities-\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Udemy\Reactivities-\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Udemy\Reactivities-\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Reactivities-\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Udemy\Reactivities-\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Udemy\Reactivities-\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Udemy\Reactivities-\Domain\obj\Debug\net6.0\Domain.dll
+C:\Udemy\Reactivities-\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Udemy\Reactivities-\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Udemy\Reactivities-\Domain\obj\Debug\net6.0\ref\Domain.dll

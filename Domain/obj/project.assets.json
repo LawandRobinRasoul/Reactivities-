@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lawan\\.nuget\\packages\\": {}
+    "C:\\Users\\lawand.rasoul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\projects\\Reactivities\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\lawan\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\Reactivities\\Domain\\obj\\",
+      "projectPath": "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\lawand.rasoul\\.nuget\\packages\\",
+      "outputPath": "C:\\Udemy\\Reactivities-\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lawand.rasoul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

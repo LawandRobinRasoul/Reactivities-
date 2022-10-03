@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KT+1aJuiUQ1CvyaARkexoyn7JZM/K7gdFDSjev9e2k0HgT0swsRDv6V/t3f35cNfcM+9mT4Xt7mtQtbrGV4Epw==",
+  "dgSpecHash": "DQAEz3YyHy4p3fjcVw1aUfGyL3PCIl0e0cbiXSdxh5hIlMtx2oZXo69PDeFt3Jf3f42zXlvEFx+tCwPE8+tupQ==",
   "success": true,
-  "projectFilePath": "C:\\projects\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Udemy\\Reactivities-\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
